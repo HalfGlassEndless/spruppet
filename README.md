@@ -8,6 +8,10 @@
 
 It runs entirely in your browser. Nothing is uploaded anywhere: your drawings, rigs and saved versions stay on your computer.
 
+First release and any attempt at making any kind of app. I'm a hobbyist that's followed guides and done some raspberry pi projects and enjoy playing with linux distros. I know fairly basic debian/ubuntu and have used AI/youtube/reddit guides for projects, this one included. I work full time as a Journeyman Electrician so while I understand some of you may say just learn it the right way, as much as I'd like to, I don't have the time to devote years to a small side project.
+
+My hope was to make something easy for my son and I to upload a drawing and start working with it immediately or at least give the skeleton to work with and upload to a sprite editor. I would love for others to contribute and create something accessible and fun for kids to start designing games and get introduced to some programming/development. Any help is greatly appreciated thanks y'all
+
 ## What it does
 
 - **Brings in any drawing.** PNG, JPEG, WebP or GIF. Backgrounds are removed, and you choose a look: chunky pixel art at the size you pick, or a smooth HD drawing that keeps your own lines.
