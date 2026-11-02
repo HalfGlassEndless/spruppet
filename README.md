@@ -2,6 +2,8 @@
 
 **A free, open-source sprite puppet maker.** Draw a character once, mark its arms, legs and joints, and Spruppet animates it: idle, walk, run, jumps, nine sword attacks, guards and more. Export sprite sheets and frame data for your game.
 
+**[Open Spruppet →](https://halfglassendless.github.io/spruppet/)**
+
 ![The built-in knight running, attacking and blocking](docs/knight-demo.png)
 
 It runs entirely in your browser. Nothing is uploaded anywhere: your drawings, rigs and saved versions stay on your computer.
