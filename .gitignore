@@ -1,0 +1,8 @@
+# Only the app and its docs are published. Your own drawings, PSDs, exports and
+# project files in this folder stay on your computer: anything not listed here is ignored.
+/*
+!/index.html
+!/README.md
+!/LICENSE
+!/.gitignore
+!/docs/
